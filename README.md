@@ -1,4 +1,7 @@
 # City of Corpus Christi Water Media Dashboard
+
+[![View Dashboard](https://img.shields.io/badge/Live-Dashboard-blue?style=for-the-badge&logo=googlecloud)](https://datastudio.google.com/reporting/e2cbc6a5-b89a-40e4-9cf0-b585e57b4797)
+
 <h2>Overview</h2>
 Built a real time dashboard aggregating published stories, media requests, and social user generated content across local, state, national, and international sources.
 
